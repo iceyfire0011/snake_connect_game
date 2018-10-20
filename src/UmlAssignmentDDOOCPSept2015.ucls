@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" language="java" name="snakeConnect.Defining" 
+    project="00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015" 
+    file="/00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015/src/snakeConnect/Defining.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="143" width="251" x="454" y="267"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="snakeConnect.GameButtons" 
+    project="00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015" 
+    file="/00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015/src/snakeConnect/GameButtons.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="280" x="393" y="4"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="snakeConnect.GamePanel" 
+    project="00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015" 
+    file="/00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015/src/snakeConnect/GamePanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="91" width="190" x="59" y="157"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="snakeConnect.SnakeMain" 
+    project="00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015" 
+    file="/00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015/src/snakeConnect/SnakeMain.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="125" width="183" x="74" y="7"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="snakeConnect.GameFrames" 
+    project="00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015" 
+    file="/00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015/src/snakeConnect/GameFrames.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="111" width="200" x="56" y="260"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="snakeConnect.GameLabel" 
+    project="00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015" 
+    file="/00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015/src/snakeConnect/GameLabel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="145" width="165" x="57" y="397"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="snakeConnect.GameLogicFunctions" 
+    project="00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015" 
+    file="/00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015/src/snakeConnect/GameLogicFunctions.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="513" width="387" x="749" y="2"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="snakeConnect.GameCheckBox" 
+    project="00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015" 
+    file="/00151170_S.M.ABDUL_WASSAE_DDOOC_Assignment_Task_1_25th_Sept_2015/src/snakeConnect/GameCheckBox.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="144" width="238" x="399" y="445"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="9">    
+    <bendpoint x="292" y="480"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="10" name="player2"/>      
+      <multiplicity id="11" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="12">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="13">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="14" name="poison1">        
+        <position height="18" width="48" x="595" y="418"/>      
+      </attribute>      
+      <multiplicity id="15" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="16">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="17">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="18">    
+    <bendpoint x="163" y="143"/>    
+    <bendpoint x="255" y="143"/>    
+    <bendpoint x="290" y="292"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="20">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="21" name="poison2">        
+        <position height="18" width="48" x="479" y="418"/>      
+      </attribute>      
+      <multiplicity id="22" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="23">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="24">    
+    <bendpoint x="413" y="259"/>    
+    <bendpoint x="412" y="279"/>    
+    <bendpoint x="412" y="302"/>    
+    <bendpoint x="414" y="322"/>    
+    <bendpoint x="415" y="357"/>    
+    <bendpoint x="419" y="425"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="25">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="26" name="boxes">        
+        <position height="18" width="40" x="461" y="248"/>      
+      </attribute>      
+      <multiplicity id="27" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="28">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="29">    
+    <bendpoint x="322" y="372"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="30" name="player1">        
+        <position height="18" width="46" x="259" y="404"/>      
+      </attribute>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="32">    
+    <bendpoint x="313" y="263"/>    
+    <bendpoint x="269" y="380"/>    
+    <bendpoint x="195" y="384"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="33">    
+    <bendpoint x="404" y="312"/>    
+    <bendpoint x="386" y="399"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
